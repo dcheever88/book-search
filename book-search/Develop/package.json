@@ -1,7 +1,6 @@
 {
   "name": "googlebooks-app",
   "version": "1.0.0",
-  "description": "",
   "main": "server/server.js",
   "scripts": {
     "start": "node server/server.js",
@@ -10,9 +9,21 @@
     "build": "cd client && npm run build"
   },
   "keywords": [],
-  "author": "",
+  "author": "Danny Cheever",
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^5.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcheever88/book-search.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dcheever88/book-search/issues"
+  },
+  "homepage": "https://github.com/dcheever88/book-search#readme",
+  "description": "",
+  "dependencies": {
+    "graphql": "^15.5.1"
   }
 }
