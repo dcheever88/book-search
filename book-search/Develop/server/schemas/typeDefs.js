@@ -21,7 +21,7 @@ const typeDefs = gql`
         username: String
         email: String
         bookCount: Int
-        savedbooks: [Book]
+        savedBooks: [Book]
     }
 
     type Book {
@@ -38,7 +38,7 @@ const typeDefs = gql`
         user: User
     }
 
-    type BookInput {
+    input BookInput {
         bookId: ID
         authors: [String]
         description: String
