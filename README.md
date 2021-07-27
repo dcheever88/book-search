@@ -7,7 +7,7 @@ This application is a GraphGL API built using Apollo Server.
 AS AN avid reader I WANT to search for new books to read SO THAT I can keep a list of books to purchase
 
 ## Usage
-App deployed at https://protected-waters-88773.herokuapp.com/
+App deployed at http://calm-lowlands-62517.herokuapp.com/
 
 ## App Images
 ![image](https://user-images.githubusercontent.com/78058224/127237014-05d6c4fb-09c6-4588-94b2-cb40051ad8b8.png)
